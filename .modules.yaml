@@ -62,6 +62,6 @@ skipped:
   - '@rollup/rollup-win32-x64-gnu@4.53.3'
   - '@rollup/rollup-win32-x64-msvc@4.53.3'
   - fsevents@2.3.3
-storeDir: /mnt/N2/.pnpm-store/v3
+storeDir: /root/.local/share/pnpm/store/v3
 virtualStoreDir: .pnpm
 virtualStoreDirMaxLength: 120
