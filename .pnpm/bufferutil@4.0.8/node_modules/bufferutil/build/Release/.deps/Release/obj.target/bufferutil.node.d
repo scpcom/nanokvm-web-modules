@@ -1,0 +1,1 @@
+cmd_Release/obj.target/bufferutil.node := /mnt/N2/Driver/LicheeRV-Nano/LicheeSG-Nano-Build/buildroot/output/cvitek_SG200X_musl_riscv64/per-package/nanokvm-server/host/bin/ccache /usr/bin/g++ -o Release/obj.target/bufferutil.node -shared -pthread -rdynamic -m64  -Wl,-soname=bufferutil.node -Wl,--start-group Release/obj.target/bufferutil/src/bufferutil.o -Wl,--end-group 

@@ -1,0 +1,67 @@
+hoistPattern:
+  - '*'
+hoistedDependencies: {}
+included:
+  dependencies: true
+  devDependencies: true
+  optionalDependencies: true
+injectedDeps: {}
+layoutVersion: 5
+nodeLinker: isolated
+packageManager: pnpm@9.15.5
+pendingBuilds: []
+prunedAt: Fri, 13 Feb 2026 00:04:04 GMT
+publicHoistPattern:
+  - '*eslint*'
+  - '*prettier*'
+registries:
+  default: https://registry.npmjs.org/
+skipped:
+  - '@esbuild/aix-ppc64@0.25.0'
+  - '@esbuild/android-arm64@0.25.0'
+  - '@esbuild/android-arm@0.25.0'
+  - '@esbuild/android-x64@0.25.0'
+  - '@esbuild/darwin-arm64@0.25.0'
+  - '@esbuild/darwin-x64@0.25.0'
+  - '@esbuild/freebsd-arm64@0.25.0'
+  - '@esbuild/freebsd-x64@0.25.0'
+  - '@esbuild/linux-arm64@0.25.0'
+  - '@esbuild/linux-arm@0.25.0'
+  - '@esbuild/linux-ia32@0.25.0'
+  - '@esbuild/linux-loong64@0.25.0'
+  - '@esbuild/linux-mips64el@0.25.0'
+  - '@esbuild/linux-ppc64@0.25.0'
+  - '@esbuild/linux-riscv64@0.25.0'
+  - '@esbuild/linux-s390x@0.25.0'
+  - '@esbuild/netbsd-arm64@0.25.0'
+  - '@esbuild/netbsd-x64@0.25.0'
+  - '@esbuild/openbsd-arm64@0.25.0'
+  - '@esbuild/openbsd-x64@0.25.0'
+  - '@esbuild/sunos-x64@0.25.0'
+  - '@esbuild/win32-arm64@0.25.0'
+  - '@esbuild/win32-ia32@0.25.0'
+  - '@esbuild/win32-x64@0.25.0'
+  - '@rollup/rollup-android-arm-eabi@4.53.3'
+  - '@rollup/rollup-android-arm64@4.53.3'
+  - '@rollup/rollup-darwin-arm64@4.53.3'
+  - '@rollup/rollup-darwin-x64@4.53.3'
+  - '@rollup/rollup-freebsd-arm64@4.53.3'
+  - '@rollup/rollup-freebsd-x64@4.53.3'
+  - '@rollup/rollup-linux-arm-gnueabihf@4.53.3'
+  - '@rollup/rollup-linux-arm-musleabihf@4.53.3'
+  - '@rollup/rollup-linux-arm64-gnu@4.53.3'
+  - '@rollup/rollup-linux-arm64-musl@4.53.3'
+  - '@rollup/rollup-linux-loong64-gnu@4.53.3'
+  - '@rollup/rollup-linux-ppc64-gnu@4.53.3'
+  - '@rollup/rollup-linux-riscv64-gnu@4.53.3'
+  - '@rollup/rollup-linux-riscv64-musl@4.53.3'
+  - '@rollup/rollup-linux-s390x-gnu@4.53.3'
+  - '@rollup/rollup-openharmony-arm64@4.53.3'
+  - '@rollup/rollup-win32-arm64-msvc@4.53.3'
+  - '@rollup/rollup-win32-ia32-msvc@4.53.3'
+  - '@rollup/rollup-win32-x64-gnu@4.53.3'
+  - '@rollup/rollup-win32-x64-msvc@4.53.3'
+  - fsevents@2.3.3
+storeDir: /mnt/N2/.pnpm-store/v3
+virtualStoreDir: .pnpm
+virtualStoreDirMaxLength: 120
