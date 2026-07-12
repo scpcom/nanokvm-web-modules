@@ -1,0 +1,1 @@
+{"locator":{"name":"pnpm","reference":"10.29.3+sha1.f7315fb659932216d489e3ed4c14f47bc58ec6c6"},"bin":{"pnpm":"./bin/pnpm.cjs","pnpx":"./bin/pnpx.cjs"},"hash":"sha1.f7315fb659932216d489e3ed4c14f47bc58ec6c6"}
